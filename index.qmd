@@ -12,7 +12,7 @@ Australian universities are embedding AI tools in assessment, but the skills req
 
 This project implements and evaluates a low-cost, scalable intervention: a **conversational nudge** appended to AI responses during structured lab sessions. The nudge makes the conversational path structurally easier, reducing the risk of uncritical acceptance at the point where it matters most. The equity analysis asks whether the benefit is uniform or differential - whether students who had fewer prior scaffolding opportunities gain more from the intervention.
 
-The intervention is grounded in the [Conversation, Not Delegation](https://www.amazon.com.au/dp/B0F1Y9FL81) framework (Borck, 2026): the quality of AI-assisted work depends on whether the student is directing the AI through active conversation or passively accepting its output.
+The intervention is grounded in the [Conversation, Not Delegation](https://michael-borck.github.io/conversation-not-delegation/) framework (Borck, 2026): the quality of AI-assisted work depends on whether the student is directing the AI through active conversation or passively accepting its output.
 
 **Funding:** Curtin NBF Learning & Teaching Grant 2026 - AUD $20,000
 
