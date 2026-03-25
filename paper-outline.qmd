@@ -1,5 +1,5 @@
 ---
-title: "ACIS 2026 Paper Outline"
+title: "ACIS 2027 Paper Outline"
 subtitle: "Working Document"
 ---
 
@@ -105,11 +105,11 @@ Key results to report:
 
 | Phase | Period |
 |-------|--------|
-| Data collection | May-June 2026 |
-| Coding and analysis | July-August 2026 |
-| First draft | September 2026 |
-| Co-author review | October 2026 |
-| Submission | November 2026 |
+| Data collection | July-October 2026 (Semester 2) |
+| Coding and analysis | November-December 2026 |
+| First draft | January-February 2027 |
+| Co-author review | March 2027 |
+| Submission | ACIS 2027 |
 
 ## References
 

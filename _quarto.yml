@@ -5,7 +5,7 @@ project:
     - CNAME
 
 website:
-  title: "Closing the AI Literacy Gap"
+  title: "Scaffolding AI Interaction"
   favicon: favicon.svg
 
   navbar:
@@ -25,7 +25,7 @@ website:
             target: _blank
     right:
       - icon: github
-        href: https://github.com/michael-borck/closing-the-gap
+        href: https://github.com/michael-borck/scaffolding-ai-interaction
         target: _blank
 
   sidebar:

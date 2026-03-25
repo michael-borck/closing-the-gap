@@ -1,6 +1,6 @@
 ---
 title: "Task Brief - Information Systems"
-subtitle: "ISYS6020"
+subtitle: "ISYS6018 Information Security Audit and Control"
 ---
 
 You are an IT consultant advising a mid-sized Australian retail company (250 employees, 12 stores, one warehouse). The company currently uses a legacy point-of-sale system and spreadsheets for inventory. The CEO has asked you to recommend whether the company should adopt an AI-powered demand forecasting system to reduce stockouts and overstock.

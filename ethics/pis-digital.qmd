@@ -2,11 +2,11 @@
 title: "Participant Information Sheet"
 ---
 
-**Project Title:** Closing the AI Literacy Gap: Scaffolding Equitable Participation in AI-Integrated Assessment
+**Project Title:** Scaffolding AI Interaction: A Low-Cost Intervention for Equitable Student Engagement
 
 **Investigators:** Michael Borck (PI); Marcela Moraes (Co-I); Torsten Reiners (Co-I)
 
-**Participating Unit:** [Unit Placeholder]
+**Participating Units:** ISYS6018 Information Security Audit and Control, MGMT6076 Supply Chain Digitalisation and Innovation, MKTG1000 Discovering Marketing
 
 ---
 

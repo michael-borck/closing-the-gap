@@ -20,9 +20,9 @@ These tasks require iterative dialogue to develop a recommendation. No single ri
 
 | Document | Discipline | Co-I |
 |----------|-----------|------|
-| [Information Systems](task-brief-information-systems.qmd) | IS | Michael Borck |
-| [Supply Chain Management](task-brief-supply-chain.qmd) | SCM | Torsten Reiners (TBC) |
-| [Marketing](task-brief-marketing.qmd) | Marketing | Marcela Moraes (TBC) |
+| [Information Systems](task-brief-information-systems.qmd) | IS (ISYS6018, ~50 students) | Michael Borck |
+| [Supply Chain Management](task-brief-supply-chain.qmd) | SCM (MGMT6076, ~30 students) | Torsten Reiners (TBC) |
+| [Marketing](task-brief-marketing.qmd) | Marketing (MKTG1000, ~220 students) | Marcela Moraes (TBC) |
 
 ## Task Briefs - Retrieval-Framed (Follow-on)
 

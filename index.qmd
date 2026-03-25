@@ -1,6 +1,6 @@
 ---
-title: "Closing the AI Literacy Gap"
-subtitle: "Scaffolding Equitable Participation in AI-Integrated Assessment"
+title: "Scaffolding AI Interaction"
+subtitle: "A Low-Cost Intervention for Equitable Student Engagement"
 format:
   html: default
 format-links: false
@@ -20,28 +20,28 @@ The intervention is grounded in the [Conversation, Not Delegation](https://micha
 
 | Role | Name | Discipline | Unit |
 |------|------|-----------|------|
-| Lead | Michael Borck | Information Systems | ISYS6020 |
-| Co-I | Dr Marcela Moraes (TBC) | Marketing | [TBC] |
-| Co-I | Dr Torsten Reiners (TBC) | Supply Chain Management | [TBC] |
+| Lead | Michael Borck | Information Systems | ISYS6018 Information Security Audit and Control (~50 students) |
+| Co-I | Dr Marcela Moraes (TBC) | Marketing | MKTG1000 Discovering Marketing (~220 students) |
+| Co-I | Dr Torsten Reiners (TBC) | Supply Chain Management | MGMT6076 Supply Chain Digitalisation and Innovation (~30 students) |
 | RA | To be recruited | - | - |
 
 ## Timeline
 
 | Period | Phase | Status |
 |--------|-------|--------|
-| **March 2026** | Foundation: HREC, confirm co-Is, configure interface | **Current** |
-| April 2026 | Instrument development, pilot, power analysis | |
-| May-June 2026 | Data collection: lab sessions across 3+ units | |
-| July-Aug 2026 | Coding, reliability checks, analysis | |
-| Sep-Oct 2026 | ACIS 2026 paper draft, resource pack | |
-| Nov-Dec 2026 | Submission, reporting, scope follow-on study | |
+| **March-April 2026** | Foundation: HREC, confirm co-Is, configure interface | **Current** |
+| May-June 2026 | Instrument development, pilot, power analysis | |
+| July-Oct 2026 | Data collection: lab sessions across 3+ units (Semester 2) | |
+| Nov-Dec 2026 | Coding, reliability checks, analysis | |
+| Jan-Mar 2027 | Paper draft, resource pack | |
+| Apr-Jun 2027 | Reporting, scope follow-on study | |
 
 ## Quick Links
 
 **Study Design**
 
 - [Methodology](methodology.qmd) - research design, measures, analysis plan
-- [Paper Outline](paper-outline.qmd) - ACIS 2026 target structure
+- [Paper Outline](paper-outline.qmd) - ACIS 2027 target structure
 - [Literature Review](literature-review.qmd) - thematic review, working document
 
 **Documents**
@@ -63,7 +63,7 @@ The intervention is grounded in the [Conversation, Not Delegation](https://micha
 - [ ] HREC submission date
 - [ ] Equity cohort percentages from Curtin SIMS (% low SES, % first-in-family)
 - [ ] Power analysis (pending cohort sizes)
-- [ ] ACIS 2026 deadline and location
+- [ ] ACIS 2027 deadline and location
 - [ ] Aboriginal and Torres Strait Islander section - active decision to include or remove
 - [ ] Talk to Business and Law RDA (Dr Joanne McEwan)
 :::

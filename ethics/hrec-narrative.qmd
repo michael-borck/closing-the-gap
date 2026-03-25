@@ -2,7 +2,7 @@
 title: "HREC Narrative"
 ---
 
-**Project Title:** Closing the AI Literacy Gap: Scaffolding Equitable Participation in AI-Integrated Assessment
+**Project Title:** Scaffolding AI Interaction: A Low-Cost Intervention for Equitable Student Engagement
 
 **Principal Investigator:** Michael Borck, Lecturer, School of Marketing and Management (SoMM)
 
@@ -13,10 +13,9 @@ title: "HREC Narrative"
 
 **Participating Units:**
 
-- [Unit 1 - e.g., ISYS6020]
-- [Unit 2 - Marketing Unit]
-- [Unit 3 - Supply Chain Unit]
-- [Optional 4th Unit - TBC]
+- ISYS6018 Information Security Audit and Control (~50 students)
+- MKTG1000 Discovering Marketing (~220 students)
+- MGMT6076 Supply Chain Digitalisation and Innovation (~30 students)
 
 ---
 
@@ -45,7 +44,7 @@ This study evaluates whether a simple conversational nudge improves how students
 
 **Participants:** Enrolled students (18+) in participating units; exclude under-18s and non-consenting students.
 
-**Sample:** ~60-120 students total; power analysis to be finalised post unit confirmations.
+**Sample:** Combined enrolment ~300 students across three units; estimated 100-200 voluntary participants. Power analysis to be finalised once participation rates are confirmed.
 
 **Data:** Student numbers collected at login for equity linkage only (destroyed after de-identification). AI transcripts (session code), task outputs, Qualtrics exit survey responses. Equity flags matched via temporary linkage table, then de-identified.
 
@@ -79,4 +78,4 @@ Student numbers held in temporary linkage table only; destroyed after equity fla
 
 ## Funding, Conflicts, Monitoring and Timeline
 
-**Funding:** NBF Learning & Teaching Grant 2026 (AUD $20,000). No conflicts declared. Monitoring: PI reviews logs after sessions; adverse events reported to HREC. Timeline: Apr-Dec 2026 data collection and dissemination; reporting in 2027.
+**Funding:** NBF Learning & Teaching Grant 2026 (AUD $20,000). No conflicts declared. Monitoring: PI reviews logs after sessions; adverse events reported to HREC. Timeline: Apr-Jun 2026 preparation and piloting; Jul-Oct 2026 data collection (Semester 2); Nov 2026-Jun 2027 analysis, writing, and reporting.

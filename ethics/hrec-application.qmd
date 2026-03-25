@@ -5,14 +5,14 @@ subtitle: "Curtin Low-Risk"
 
 | Field | Detail |
 |-------|--------|
-| **Project title** | Closing the AI Literacy Gap: Scaffolding Equitable Participation in AI-Integrated Assessment |
+| **Project title** | Scaffolding AI Interaction: A Low-Cost Intervention for Equitable Student Engagement |
 | **Principal Investigator (PI)** | Michael Borck, Lecturer, School of Marketing and Management (SoMM) |
 | **Co-Investigators** | Dr Marcela Moraes, Lecturer, SoMM - TBC (confirmation pending) |
 | | Dr Torsten Reiners, Senior Lecturer, Supply Chain Management, SoMM - TBC (confirmation pending) |
 | **Faculty/School** | Faculty of Business and Law / School of Marketing and Management |
 | **Funding** | Curtin NBF Learning & Teaching Grant 2026 - AUD $20,000 (internal) |
 | **Study sites** | Curtin computer labs (Business & Law), plus any additional school labs confirmed with co-investigators |
-| **Project dates** | Start April 2026 (ethics approval date + onboarding) - December 2026; reporting in 2027 per NBF requirements |
+| **Project dates** | Start April 2026 (ethics approval date + onboarding); data collection Semester 2 2026; reporting Semester 1 2027 |
 | **Ethics pathway sought** | Low-risk (no PII collected; minimal risk educational intervention with university students) |
 | **Related grant or prior ethics** | This HREC supports the NBF grant; no prior HREC approvals. CloudCore/keep-asking design precedents available |
 
@@ -62,9 +62,9 @@ Students complete a discipline-relevant task that requires iterative AI interact
 
 ### 4.3 Participants and Recruitment
 
-**Population:** Curtin students enrolled in participating units (ISYS6020 + at least two additional units in Marketing and Supply Chain; final list TBC). Participation is voluntary and does not affect grades. Sessions are scheduled at varied times to support students with work/caring commitments.
+**Population:** Curtin students enrolled in participating units: ISYS6018 Information Security Audit and Control (~50 students), MGMT6076 Supply Chain Digitalisation and Innovation (~30 students), and MKTG1000 Discovering Marketing (~220 students). Participation is voluntary and does not affect grades. Sessions are scheduled at varied times to support students with work/caring commitments.
 
-**Target n:** ~60-120 participants total (20-30 per session across 3 or more units). A power analysis will be finalised once units and cohort sizes are confirmed.
+**Target n:** Combined enrolment across three units is approximately 300 students. Estimated 100-200 voluntary participants. A power analysis will be finalised once participation rates are confirmed.
 
 **Recruitment** via PI and co-investigators with plain-language invitations on LMS and email. We will encourage participation from low SES / first-in-family students (equity disaggregation happens at analysis stage; no differential treatment during sessions).
 
@@ -109,7 +109,7 @@ Students complete a discipline-relevant task that requires iterative AI interact
 
 **Direct to participants:** Opportunity to learn effective AI interaction habits and receive structured feedback.
 
-**To Curtin:** Equity-disaggregated evidence to inform AI-integrated assessment policy and NBF reporting. Open-access resource pack and ACIS 2026 dissemination.
+**To Curtin:** Equity-disaggregated evidence to inform AI-integrated assessment policy and NBF reporting. Open-access resource pack and ACIS 2027 dissemination.
 
 ---
 
@@ -157,7 +157,7 @@ None offered. Sessions are designed to be short and scheduled at varied times to
 
 ## 11) Funding, Conflicts, Monitoring and Timeline
 
-**Funding:** Curtin NBF Learning & Teaching Grant 2026 (internal). Budget supports RA, API costs, instrument development, session delivery, resource production, and ACIS 2026 dissemination.
+**Funding:** Curtin NBF Learning & Teaching Grant 2026 (internal). Budget supports RA, API costs, instrument development, session delivery, resource production, and ACIS 2027 dissemination.
 
 **COIs:** None declared. The PI's authorship of Conversation, Not Delegation is disclosed as scholarly background; no commercial interest.
 
@@ -171,17 +171,17 @@ None offered. Sessions are designed to be short and scheduled at varied times to
 
 | Period | Activity |
 |--------|----------|
-| March-April 2026 | HREC approval, confirm units/co-Is, finalise instruments, recruit RA |
-| May-June 2026 | Lab sessions and data collection |
-| July-August 2026 | Coding, reliability checks, analysis |
-| Sep-Dec 2026 | Writing, open resources, ACIS submission; progress report drafting |
-| 2027 | NBF final report |
+| March-June 2026 | HREC approval, confirm units/co-Is, finalise instruments, recruit RA, pilot |
+| July-Oct 2026 | Lab sessions and data collection (Semester 2) |
+| Nov-Dec 2026 | Coding, reliability checks, analysis |
+| Jan-Mar 2027 | Writing, open resources, paper draft |
+| Apr-Jun 2027 | NBF final report, equity outcome reporting |
 
 ---
 
 ## 12) Dissemination
 
-Open-access resource pack (facilitation guide, nudge variants, task design principles, exit survey instrument) on Curtin repository and The AI Exchange. ACIS 2026 paper submission. Equity-disaggregated findings included in NBF reporting.
+Open-access resource pack (facilitation guide, nudge variants, task design principles, exit survey instrument) on Curtin repository and The AI Exchange. ACIS 2027 paper submission. Equity-disaggregated findings included in NBF reporting.
 
 ---
 
@@ -195,7 +195,7 @@ Equity cohorts (low SES; first-in-family) are not treated differently in session
 
 ## 14) Publications
 
-**Peer-reviewed:** Targeting ACIS 2026; anonymised transcript excerpts only; no identifiers.
+**Peer-reviewed:** Targeting ACIS 2027; anonymised transcript excerpts only; no identifiers.
 
 **Open resources:** Facilitation guide, nudge variants, task design principles, exit survey instrument (no raw data).
 
@@ -253,7 +253,7 @@ Delegation is derived in analysis (FU=0, CH=0, EX=0), not coded separately. Resu
 
 - [ ] Insert HREC submission date and preferred start date
 - [ ] Confirm co-investigator names/roles/units (Marcela, Torsten)
-- [ ] List participating units explicitly (ISYS6020 + [Marketing Unit] + [Supply Chain Unit])
+- [x] List participating units explicitly (ISYS6018, MGMT6076, MKTG1000)
 - [ ] Add Curtin analytics contact for equity flag matching and confirm the de-identification protocol email
 - [ ] Confirm storage location path (e.g., R:\Faculty\ProjectNudge\ or SharePoint site) and access list
 - [ ] Replace placeholders in PIS/Consent/Recruitment with dates, rooms, and contact details

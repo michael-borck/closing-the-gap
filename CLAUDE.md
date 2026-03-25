@@ -4,7 +4,7 @@
 
 Quarto website and single source of truth for the **keep-asking** research project - a study evaluating whether a conversational nudge improves how students interact with AI during structured lab sessions.
 
-**Full title:** Closing the AI Literacy Gap: Scaffolding Equitable Participation in AI-Integrated Assessment
+**Full title:** Scaffolding AI Interaction: A Low-Cost Intervention for Equitable Student Engagement
 
 **PI:** Michael Borck, Lecturer, School of Marketing and Management (SoMM), Curtin University
 
@@ -25,6 +25,7 @@ Quarto website and single source of truth for the **keep-asking** research proje
 
 ## Key Design Decisions
 
+- **Participating units:** ISYS6018 (~50), MGMT6076 (~30), MKTG1000 (~220); potential 4th unit TBC
 - **Frontier model only** (Claude via Anthropic API) - no local model comparison in this grant
 - **Nudge variant pool** (10 variants, randomly selected per turn) to reduce habituation
 - **Turn 1 excluded** from behavioural coding (no prior AI response to react to)
@@ -36,10 +37,11 @@ Quarto website and single source of truth for the **keep-asking** research proje
 - **System prompt** suppresses model engagement hooks to avoid contaminating control condition
 - **Australian English** throughout, no em-dashes
 
-## Co-Investigators (both TBC, no third co-I)
+## Co-Investigators (all TBC)
 
-- Dr Marcela Moraes - Marketing, SoMM
-- Dr Torsten Reiners - Supply Chain Management, SoMM
+- Dr Marcela Moraes - Marketing, SoMM (MKTG1000)
+- Dr Torsten Reiners - Supply Chain Management, SoMM (MGMT6076)
+- Potential 4th: colleague from People and Culture / HR discipline, SoMM (invited, awaiting response)
 
 ## Content Structure
 
@@ -47,7 +49,7 @@ Quarto website and single source of truth for the **keep-asking** research proje
 index.qmd                    Landing page / dashboard
 methodology.qmd              Synthesised research design
 literature-review.qmd        Thematic lit review (working doc)
-paper-outline.qmd            ACIS 2026 paper structure
+paper-outline.qmd            ACIS 2027 paper structure
 
 grant/                       NBF grant application
 ethics/                      HREC package (8 documents)

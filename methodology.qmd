@@ -11,9 +11,9 @@ All sessions use a frontier-class AI model (Claude or GPT-4 class) accessed via 
 
 ## Participants and Recruitment
 
-**Population:** Curtin students enrolled in participating units (ISYS6020 + at least two additional units). Participation is voluntary and does not affect grades.
+**Population:** Curtin students enrolled in participating units (ISYS6018 Information Security Audit and Control, MGMT6076 Supply Chain Digitalisation and Innovation, MKTG1000 Discovering Marketing). Participation is voluntary and does not affect grades.
 
-**Target sample:** ~60-120 participants total (20-30 per session across 3+ units). A power analysis will be finalised once units and cohort sizes are confirmed.
+**Target sample:** Combined enrolment across three units is approximately 300 students (ISYS6018 ~50, MGMT6076 ~30, MKTG1000 ~220). Estimated 100-200 voluntary participants. A power analysis will be finalised once participation rates are confirmed.
 
 **Recruitment:** Via PI and co-investigators with plain-language invitations on LMS and email. Session timing varied to accommodate students with work or caring commitments. Purposive encouragement of participation from low SES and first-in-family students.
 
